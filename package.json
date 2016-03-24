@@ -1,0 +1,19 @@
+{
+  "name": "cyberdyne",
+  "version": "1.0.0",
+  "description": "evil corporation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyberdyne/cyberdyne.git"
+  },
+  "author": "cyberdyne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyberdyne/cyberdyne/issues"
+  },
+  "homepage": "https://github.com/cyberdyne/cyberdyne#readme"
+}
